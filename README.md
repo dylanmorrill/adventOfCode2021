@@ -7,8 +7,8 @@
 ## My solutions
 
 - Week 1
-  - [Challlange description](https://adventofcode.com/2020/day/1)
-  - [My code](https://github.com/dylanmorrill/adventOfCode2021/blob/master/force-app/main/default/classes/Advent_Day1.cls)
+  - [Challlange description](https://adventofcode.com/2021/day/1)
+  - [My code](https://github.com/dylanmorrill/adventOfCode2021__c/blob/main/force-app/main/default/classes/Advent2021_day1.cls)
 - Week 2
-  - [Challlange description](https://adventofcode.com/2020/day/2)
-  - [My code](https://github.com/dylanmorrill/adventOfCode2021/blob/master/force-app/main/default/classes/Advent_Day2.cls)
+  - [Challlange description](https://adventofcode.com/2021/day/2)
+  - [My code](https://github.com/dylanmorrill/adventOfCode2021__c/blob/main/force-app/main/default/classes/Advent2021_day2.cls)
